@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-example:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-14T01:31:03.386911654Z"
+    description: A Helm chart for Kubernetes
+    digest: b3181d399f235884acb1f9978789b224fcd33cf7dd830030788e4f5c61b73682
+    name: helm-example
+    type: application
+    urls:
+    - https://github.com/skye-mle/helm-charts/releases/download/helm-example-0.1.0/helm-example-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-14T01:31:03.386923126Z"
